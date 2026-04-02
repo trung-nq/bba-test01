@@ -20,3 +20,5 @@ const remainingCoinAfterDevice = sumCoin(coinLevel)%Object.keys(coinLevel).lengt
 console.log("Total coin of all levels is " + sumCoin(coinLevel));
 console.log(`Average coin: ${averageCoin.toFixed(2)}`);
 console.log(`Remaining coin after devide is ${remainingCoinAfterDevice}`);
+
+//coin level
